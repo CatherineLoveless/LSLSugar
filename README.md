@@ -16,15 +16,19 @@ Currently it supports
 Table syntax
 ---------------------------------------------
 DeclareTable
+
     list points = string[];
     list elements = integer[];
     list values = integer[];
     list isElement = integer[];
+
 WithValues
+
     "Inpurities"    |2|0|FALSE
     "Coal"          |4|1|FALSE
     "Lead(Pb)"      |4|1|TRUE
     "Manganese(Mn)" |4|1|TRUE
+    
 EndTable
 ---------------------------------------------
 
