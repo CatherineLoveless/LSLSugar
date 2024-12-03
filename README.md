@@ -1,6 +1,8 @@
 LSLSugar V0.01
 https://github.com/CatherineLoveless/LSLSugar
 
+(FYI very early on syntax very much subject to change until i know what i actually wnana do with this...)
+
 
 transpiled syntax sugar on top pf LSL
 
